@@ -1,0 +1,12 @@
+VulkanSDK/
+*~
+Libs/glfw-3.3.4-x64/LICENSE.md
+Libs/glfw-3.3.4-x64/README.md
+Libs/glfw-3.3.4-x64/docs/
+Libs/glfw-3.3.4-x64/lib-mingw-w64/
+Libs/glfw-3.3.4-x64/lib-static-ucrt/
+Libs/glfw-3.3.4-x64/lib-vc2012/
+Libs/glfw-3.3.4-x64/lib-vc2013/
+Libs/glfw-3.3.4-x64/lib-vc2015/
+Libs/glfw-3.3.4-x64/lib-vc2017/
+
