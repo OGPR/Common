@@ -11,4 +11,6 @@ Libs/glfw-3.3.4-x64/lib-vc2015/
 Libs/glfw-3.3.4-x64/lib-vc2017/
 
 **/.vs
+Libs/LibGeneration/**/Release
+Libs/LibGeneration/**/Debug
 
