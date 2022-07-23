@@ -27,6 +27,7 @@
     <ProjectGuid>{f3e8e389-1200-4d87-adc4-6bdcd948b3ff}</ProjectGuid>
     <RootNamespace>gladlib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>gladlib_gl46</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
